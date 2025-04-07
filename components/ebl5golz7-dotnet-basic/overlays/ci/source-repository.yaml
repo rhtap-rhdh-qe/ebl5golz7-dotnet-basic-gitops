@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ebl5golz7-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ebl5golz7-dotnet-basic
